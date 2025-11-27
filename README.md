@@ -1,0 +1,14 @@
+# Detector de Movimento com Python 📷
+
+Este projeto utiliza a webcam para monitorar ambientes. Ao detectar movimento, o sistema emite um alerta sonoro (voz) e destaca a área da intrusão na tela.
+
+## 🛠 Tecnologias Usadas
+- Python 3
+- OpenCV (Visão Computacional)
+- Pyttsx3 / Spd-say (Sintetizador de Voz)
+
+## ⚙️ Como Rodar
+
+1. Clone o repositório:
+   ```bash
+   git clone [https://github.com/felipemorrudo/detector-movimento-python.git](https://github.com/felipemorrudo/detector-movimento-python.git)
