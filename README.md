@@ -11,16 +11,16 @@ Este projeto utiliza a webcam para monitorar ambientes. Ao detectar movimento, o
 
 1.Clone o repositório:
    ``bash
-   git clone https://github.com/felipemorrudo/detector-movimento-python.git
+   git clone https://github.com/felipemaorrudo/detector-movimento-python.git
    
 2.Crie um ambiente virtual:
- # No Linux/Mac:
+No Linux/Mac:
 python3 -m venv venv
 source venv/bin/activate
 
-# No Windows:
-# python -m venv venv
-# venv\Scripts\activat
+No Windows:
+python -m venv venv
+venv\Scripts\activat
 
 3.Instale dependências:
 pip install -r requirements.txt
