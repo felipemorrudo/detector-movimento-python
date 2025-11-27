@@ -26,8 +26,8 @@ venv\Scripts\activat
 pip install -r requirements.txt
 
 4. Execute o programa:
-   python movimento.py
+python movimento.py
 
-   (pressiona 'q' na janela da câmera para encerrar o programa)
+(pressiona 'q' na janela da câmera para encerrar o programa)
 
 Desenvolvido por Felipe Morrudo
